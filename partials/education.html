@@ -1,0 +1,20 @@
+<div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+        <div class="my-auto">
+            <h2 class="mb-5">Education</h2>
+
+            <div class="resume-item d-flex flex-column flex-md-row mb-5" ng-repeat="x in a.education">
+                <div class="resume-content mr-auto">
+                  <h3 class="mb-0">{{x.institute}}</h3>
+                  <div class="subheading mb-3">{{x.degree}}</div>
+                  <div>{{x.subject}}</div>
+                  <p>{{x.result}}</p>
+                </div>
+                <div class="resume-date text-md-right">
+                  <span class="text-primary">{{x.date_from}} - {{x.date_till}}</span>
+                </div>
+              </div>
+        </div>
+    </section>
+</div>

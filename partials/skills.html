@@ -1,0 +1,87 @@
+<div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+        <div class="my-auto">
+            <h2 class="mb-5">Skills</h2>
+            <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+            <ul class="list-inline list-icons">
+                <li class="list-inline-item" ng-repeat="x in a.cons">
+                    <i class="devicons {{x}}"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-css3"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-javascript"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-jquery"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-sass"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-less"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-bootstrap"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-wordpress"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-grunt"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-gulp"></i>
+                </li>
+                <li class="list-inline-item">
+                    <i class="devicons devicons-npm"></i>
+                </li>
+            </ul>
+
+            
+
+            <!-- <div class="container-fluid"> -->
+                <div class="row">
+                    <div class="col-sm-4" ng-repeat="x in a.skills">
+                        <div class="subheading mb-3">{{x.heading}}</div>
+                        <div class="bar-chart">
+                            <div class="legend">
+                                <div class="item"><h4>Newbie</h4></div>
+                                <div class="item"><h4>Decent</h4></div>
+                                <div class="item text-right"><h4>Good</h4></div>
+                                <div class="item text-right"><h4>Superhero</h4></div>
+                            </div>
+                            <div class="chart clearfix" ng-repeat="y in x.elements">
+                                <div class="item">
+                                        
+                                        <div class="progress bar">
+                                                <span class="percent">{{y.percentage}}%</span>
+                                                <div class="progress-bar item-progress" role="progressbar" aria-valuenow="{{y.percentage}}"
+                                                 aria-valuemin="0" aria-valuemax="100" style="width:{{y.percentage}}%">
+                                                 
+                                                 <!-- <object width="400" height="400" data="file.pdf"></object> -->
+                                                 
+                                                 <span class="title">{{y.name}}</span>
+                                                </div>
+                                    <!-- <div class="bar">
+                                        <span class="percent">{{y.percentage}}%</span>
+                                        <div class="item-progress" data-percent="{{y.percentage}}" ng-width="{{y.percentage}}">
+                                            <span class="title">{{y.name}}</span>
+                                        </div>
+                                        
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- //.row -->
+            <!-- </div> -->
+            <!-- //.container -->
+
+            
+        </div>
+    </section>
+</div>

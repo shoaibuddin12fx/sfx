@@ -1,5 +1,9 @@
-app.controller('homeCtrl', function($scope, $state, $q) {
+app.controller('homeCtrl', function($scope, $state, ajaxing, $q) {
     
-    console.log("home world");
+    $scope.a = []; 
+    ajaxing.getAbout($q).then(function(data){
+        console.log(data);
+        $scope.a = data;
+    })
     
 });

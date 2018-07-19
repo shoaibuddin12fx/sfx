@@ -1,0 +1,33 @@
+{
+  "id": "1",
+  "name": "Shoaib uddin",
+  "firstname": "Shoaib",
+  "lastname":"uddin",
+  "address": "BLOCK - 10 GULSHAN IQBAL , KARACHI",
+  "phone": "+92 (343) 232-2008",
+  "email": "shoaibuddin12fx@gmail.com",
+  "about_me": "With an experience of more then four years and good understanding of design and development of websites as well as Mobile applications of iOS and android, both native and hybrid, its been fun to be a developer. Many languages are in my expertise, especially for iOS Apps currently as well. I am a good learner and I am ready to improve myself for future challenges.",
+  "social": [
+    {
+      "name": "facebook",
+      "icon": "fa-facebook",
+      "link": "#"
+    },
+    {
+      "name": "gmail",
+      "icon": "fa-envelope",
+      "link": "#"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fa-linkedin",
+      "link": "#"
+    },
+    {
+      "name": "facebook",
+      "icon": "fa-github",
+      "link": "#"
+    }
+
+  ]
+}

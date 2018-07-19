@@ -1,0 +1,211 @@
+{
+  "cons": [
+    "devicons-git",
+    "devicons-bitbucket",
+    "devicons-github",
+    "devicons-java",
+    "devicons-ruby",
+    "devicons-ruby_on_rails",
+    "devicons-php",
+    "devicons-mysql",
+    "devicons-database",
+    "devicons-laravel",
+    "devicons-javascript",
+    "devicons-angular",
+    "devicons-jquery",
+    "devicons-bootstrap",
+    "devicons-css3",
+    "devicons-html5",
+    "devicons-magento",
+    "devicons-wordpress",
+    "devicons-bower",
+    "devicons-npm",
+    "devicons-android",
+    "devicons-apple",
+    "devicons-appstore",
+    "devicons-phonegap",
+    "devicons-visualstudio",
+    "devicons-swift",
+    "devicons-codeigniter",
+    "devicons-composer",
+    "devicons-firebase",
+    "devicons-netbeans",
+    "devicons-dreamweaver",
+    "devicons-ionic",
+    "devicons-materializecss"
+  ],
+
+  "skills": [
+    {
+      "heading":"IDE Systems and Ingredients",
+      "elements":[
+        {
+          "name": "XCode",
+          "percentage": 80
+        },
+        {
+          "name": "Visual Studio Code",
+          "percentage": 60
+        },
+        {
+          "name": "Android Studio",
+          "percentage": 50
+        },
+        {
+          "name": "RubyMine",
+          "percentage": 40
+        },
+        {
+          "name": "phpStorm",
+          "percentage": 80
+        },
+        {
+          "name": "Netbeans",
+          "percentage": 50
+        },
+        {
+          "name": "Dreamweaver",
+          "percentage": 70
+        },
+        {
+          "name": "Firefox Developer Edition",
+          "percentage": 90
+        },
+        {
+          "name": "Postman",
+          "percentage": 70
+        },
+        {
+          "name": "SourceTree",
+          "percentage": 90
+        },
+        {
+          "name": "Github Desktop",
+          "percentage": 90
+        },
+        {
+          "name": "MySql Workbench",
+          "percentage": 50
+        },
+        {
+          "name": "MongoDB",
+          "percentage": 30
+        }
+      ]
+    },
+    {
+      "heading":"CMS Systems and Ingredients",
+      "elements":[
+        {
+          "name": "Ionic 1,2,3",
+          "percentage": 80
+        },
+        {
+          "name": "Wordpress",
+          "percentage": 70
+        },
+        {
+          "name": "Woocommerce",
+          "percentage": 70
+        },
+        {
+          "name": "Magento",
+          "percentage": 40
+        },
+        {
+          "name": "Ruby on Rails",
+          "percentage": 80
+        },
+        {
+          "name": "Phonegap",
+          "percentage": 30
+        },
+        {
+          "name": "OpenCart",
+          "percentage": 20
+        },
+        {
+          "name": "laravel",
+          "percentage": 50
+        },
+        {
+          "name": "Code Ignitor (CI)",
+          "percentage": 40
+        },
+        {
+          "name": "Firebase",
+          "percentage": 70
+        },
+        {
+          "name": "Facebook Dev console",
+          "percentage": 60
+        },
+        {
+          "name": "Google Dev console",
+          "percentage": 60
+        },
+        {
+          "name": "Apple Dev console",
+          "percentage": 60
+        }
+      ]
+    },
+    {
+      "heading":"Relevent Languages",
+      "elements":[
+        {
+          "name": "HTML",
+          "percentage": 90
+        },
+        {
+          "name": "CSS",
+          "percentage": 80
+        },
+        {
+          "name": "JavaScript",
+          "percentage": 70
+        },
+        {
+          "name": "php",
+          "percentage": 80
+        },
+        {
+          "name": "AJAX",
+          "percentage": 70
+        },
+        {
+          "name": "jQuery",
+          "percentage": 60
+        },
+        {
+          "name": "AngularJS 1",
+          "percentage": 70
+        },
+        {
+          "name": "AngularJS 2",
+          "percentage": 60
+        },
+        {
+          "name": "JAVA",
+          "percentage": 50
+        },
+        {
+          "name": "Swift",
+          "percentage": 70
+        },
+        {
+          "name": "Objective C",
+          "percentage": 50
+        },
+        {
+          "name": "Ruby",
+          "percentage": 30
+        },
+        {
+          "name": "C++",
+          "percentage": 50
+        }
+      ]
+    }  
+  ]
+}

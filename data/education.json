@@ -1,0 +1,28 @@
+{
+  "education": [
+    {
+      "degree": "Bachelors",
+      "institute":"Virtual University of Pakistan",
+      "subject":"Computer Science",
+      "result":"CGPA 2.8",
+      "date_from":"2009",
+      "date_till":"2014"
+    },
+    {
+      "degree": "Intermediate",
+      "institute":"Govt Degree Science College Block 7",
+      "subject":"Pre Medical",
+      "result":"Grade C",
+      "date_from":"2007",
+      "date_till":"2008"
+    },
+    {
+      "degree": "Metriculation",
+      "institute":"Texas Technical High School",
+      "subject":"Computer Science",
+      "result":"Grade A+",
+      "date_from":"2004",
+      "date_till":"2006"
+    }
+  ]
+}

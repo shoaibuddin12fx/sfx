@@ -1,0 +1,46 @@
+{
+  "experience": [
+    {
+      "post": "Senior Software Developer",
+      "company":"Reaverb Technologies",
+      "date_from":"June 2018",
+      "date_till":"Present",
+      "description":"Reverb is a small 'group of groups' of developers who are working in co-ordination with each other, and i like their way of working. Its a new experience to me for working in a new pattern of work. I use my experties there and learning a new platform in my skillset 'Laravel' and i loved its simplicity and dynamic structure. In future, I will inprove my self more"
+    },
+    {
+      "post": "Freelance Developer",
+      "company":"Pixel Technologies",
+      "date_from":"Apr 2016",
+      "date_till":"Present",
+      "description":"No wonder how things happen in this world, but every event has a reason to. Ehtisham of Pixel came to me one day for a small project of a wordpress plugin and the story moves on. I worked with him since as a part time freelancer and have done multiple projects with him including - iPhone Apps, wordpress, custom PHP, Code Ignitor, Hybrid Apps on ionic and the list is on and on"
+    },
+    {
+      "post": "APP Developer",
+      "company":"MATECH Consulting and Outsourcing",
+      "date_from":"Apr 2016",
+      "date_till":"Apr 2018",
+      "description":"MATECH is a really nice company, who cares and give equal opprtunit to everyone. Here I learned most out of my previous skill sets, such as Ruby with Ruby on Rails, MongoDB databse structures, Native JAVA applications, wordpress, some more of Magento 1.7 and 2.0 but most importantly in the second half of my employement, I learned iPhone iOS development - XCode, swift, Objective C and I loved it"
+    },
+    {
+      "post": "PHP Developer",
+      "company":"Vivotic Solucions",
+      "date_from":"Jan 2014",
+      "date_till":"Mar 2016",
+      "description":"VIvotic is a nice company, and i worked under a young guy named Faizan. A nice guy who help me build my experties from, let's say, 30% to almost 80% improvement. I learned most on PHP, wordpress, some of Magento < 2.0, making of wordpress plugins, my first learning experience of Ionic 1 and 2, my most importantly - introduction to angularjs. Some Native android on JAVA projects I do there too"
+    },
+    {
+      "post": "CMS Wordpress developer",
+      "company":"One-A-Services",
+      "date_from":"Aug 2015",
+      "date_till":"Oct 2015",
+      "description":"With every good experience, there comes some bad experiences too. This one is a very small company and i worked there as CMS developer. Mostly their projects are based on wordpress, opencart and one of them is custom HTML CSS. but i left due to their strict rules which doesn't suit me well"
+    },
+    {
+      "post": "Intern",
+      "company":"Lynx IT Network",
+      "date_from":"June 2013",
+      "date_till":"Dec 2013",
+      "description":"Every milestone we achieve have a starting point of our goal. its small but is mostly noted when we look back in history. Lynx was my first company in my official career, and i learned Basics such as HTML, CSS, PHP and wordpress. But this help me a lot in later achievements"
+    }
+  ]
+}
