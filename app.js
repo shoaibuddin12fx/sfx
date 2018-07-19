@@ -1,5 +1,5 @@
-var app = angular.module("sfx", ['ui.router', /*'ngSanitize', /*'ui.select',  'ngAnimate',*/ 'ui.bootstrap' /*, 'smart-table' */ ]);
-var partials = '/sfx/partials/';
+var app = angular.module("sfx", ['ui.router', 'ngSanitize', /*'ui.select',  'ngAnimate',*/ 'ui.bootstrap' /*, 'smart-table' */ ]);
+var partials = '/partials/';
 
 app.run(function($rootScope, $q ) {
     
