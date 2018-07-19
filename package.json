@@ -2,15 +2,12 @@
     "name": "sfx-resume",
     "description": "My resume",
     "version": "1.0.0",
-    "engines": {
-      "node": "8.9.4"
-    },
+    
     "scripts": {
       "start": "harp server --port $PORT"
     },
     "dependencies": {
         "harp": "*",
-        "ngSanitize": "^1.2.18",
         "bootstrap": "4.1.1",
         "devicons": "^1.8.0",
         "jquery": "3.3.1",
