@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "harp": "*",
-        "ngSanitize": "1.2.18",
+        "ngSanitize": "^1.2.18",
         "bootstrap": "4.1.1",
         "devicons": "^1.8.0",
         "jquery": "3.3.1",
