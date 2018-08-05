@@ -2,13 +2,13 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-            <h1 class="mb-0">{{a.firstname}}
-                <span class="text-primary">{{a.lastname}}</span>
+            <h1 class="mb-0">HI ! I'M 
+                <span class="text-primary">{{a.firstname}}</span>
             </h1>
-            <div class="subheading mb-5">{{a.address}} · {{a.phone}} ·
-                <a ng-href="mailto:{{a.email}}">{{a.email}}</a>
-            </div>
+            <div class="subheading mb-5">A LEAD SOFTWARE DEVELOPER AND ENGINEER</div>
             <p class="mb-5">{{a.about_me}}</p>
+            <div class="subheading mb-5">{{a.phone}}<br><a ng-href="mailto:{{a.email}}">{{a.email}}</a>
+                </div>
             <ul class="list-inline list-social-icons mb-0">
                 <li class="list-inline-item" ng-repeat="x in a.social">
                     <a ng-href="{{x.link}}">

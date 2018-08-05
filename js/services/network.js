@@ -30,7 +30,15 @@ app.factory('ajaxing', function($http, $timeout) {
                 q.resolve(data);
             });
             return q.promise;
-        }
+        },
+        getProjects:function($q){
+            var q = $q.defer();
+            $.getJSON("data/projects.json", function( data ) {
+                q.resolve(data);
+            });
+            return q.promise;
+        },
+
 
     }
 });

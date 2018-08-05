@@ -1,0 +1,34 @@
+
+<div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+        <div class="my-auto">
+            <div class="form-check form-check-inline" ng-repeat="x in b">
+                <label class="form-check-label">
+                    <input class="form-check-input" type="checkbox" id="inlineCheckbox1" ng-model="x.checked" value="x.name" ng-click="filterSelection(x)"> {{x.name}}
+                </label>
+            </div>
+            <h2 class="mb-5">Projects</h2>
+
+
+
+
+            <!--<div id="myBtnContainer">-->
+                <!--<button class="btn" ng-repeat="x in b" ng-click="filterSelection(x) ">{{x}}</button>-->
+            <!--</div>-->
+
+            <!-- Portfolio Gallery Grid -->
+            <div class="row">
+                <!-- ng-hide="( x.name == types ) && x.checked != false " -->
+                <div class="column" ng-repeat="y in a" ng-show="types.indexOf(y.type) !== -1 || types.length == 0">
+                    <div class="content">
+                        <img src="https://www.mountainbikeworldwide.com/wp-content/uploads/2017/10/Mountain-Bike-Tour-Switzerland-300x300.jpg" alt="Mountains" style="width:100%">
+                        <h4>{{y.name}}</h4>
+                        <p>{{y.catch_line}}</p>
+                    </div>
+                </div>
+                <!-- END GRID -->
+            </div>
+            <p class="mb-5">* its not all of the list i have done in past years, -- NOT ALL -- because I recently gathering my stuff again and much of then I either forgot or the links were expired </p>
+    </section>
+    </div>

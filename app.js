@@ -1,5 +1,6 @@
-var app = angular.module("sfx", ['ui.router', 'ngSanitize', /*'ui.select',  'ngAnimate',*/ 'ui.bootstrap' /*, 'smart-table' */ ]);
-var partials = '/partials/';
+var app = angular.module("sfx", ['ui.router', 'ngSanitize', /*'ui.select', */ 'ngAnimate', 'ui.bootstrap' /*, 'smart-table' */ ]);
+// var partials = '/partials/';
+var partials = '/sfx/partials/';
 
 app.run(function($rootScope, $q ) {
     
@@ -33,6 +34,11 @@ app.config(function($stateProvider, $urlRouterProvider) {
             url: '/skills',
             templateUrl: partials + 'skills.html',
             controller: 'skillsCtrl',
+        })
+        .state('projects', {
+            url: '/projects',
+            templateUrl: partials + 'projects.html',
+            controller: 'projectsCtrl',
         })
 
         
