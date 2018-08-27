@@ -21,6 +21,7 @@
     <session id="1504499415">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -151,6 +152,11 @@
             <path>
               <item name="sfx" type="b2602c69:ProjectViewProjectNode" />
               <item name="sfx" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sfx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sfx" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -200,16 +206,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533379204558</updated>
-      <workItem from="1533379206639" duration="12064000" />
+      <workItem from="1533379206639" duration="12373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12064000" />
+    <option name="totallyTimeSpent" value="12373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1420" height="857" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />

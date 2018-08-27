@@ -22,8 +22,8 @@
                 <!-- ng-hide="( x.name == types ) && x.checked != false " -->
                 <div class="column" ng-repeat="y in a" ng-show="types.indexOf(y.type) !== -1 || types.length == 0">
                     <div class="content">
-                        <img src="https://www.mountainbikeworldwide.com/wp-content/uploads/2017/10/Mountain-Bike-Tour-Switzerland-300x300.jpg" alt="Mountains" style="width:100%">
-                        <h4>{{y.name}}</h4>
+                        <img ng-src="{{y.cover_image}}" alt="Mountains" style="width:100%">
+                        <!-- <h4>{{y.name}}</h4> -->
                         <p>{{y.catch_line}}</p>
                     </div>
                 </div>

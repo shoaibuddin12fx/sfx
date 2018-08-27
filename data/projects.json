@@ -43,242 +43,200 @@
   ],
   "projects": [
     {
-      "name": "Meal Planner",
-      "catch_line": "An app to choose daily healthy diet automatically",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"ionic",
-      "v_link": "#"
-    },
-    {
       "name": "Zuul System App",
       "catch_line": "Auto Pass Invitation System",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/zuul-system/zuul-system.jpg",
       "type":"ionic",
       "v_link": "#"
     },
     {
       "name": "Zuul System Web",
       "catch_line": "Auto Pass Invitation System",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/zuul-system/zuul-system-web.jpg",
       "type":"laravel",
+      "v_link": "#"
+    },
+    {
+      "name": "Meal Planner",
+      "catch_line": "An app to choose daily healthy diet automatically",
+      "cover_image":"img/menu-planner/menu-planner.jpg",
+      "type":"ionic",
       "v_link": "#"
     },
     {
       "name": "GPS First",
       "catch_line": "Auto Monitor of Car Tracking System",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/gps-first/gps-first.jpg",
       "type":"iphone",
       "v_link": "#"
     },
     {
       "name": "Salonistan",
       "catch_line": "Appointment booking System for salons",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/salonistan/salonistan.jpg",
       "type":"laravel",
-      "v_link": "#"
+      "v_link": "http://salonistan.com/"
     },
     {
       "name": "Celebrity",
       "catch_line": "Small turn quiz game for kids",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/celebrity/celebrity.jpg",
       "type":"iphone",
       "v_link": "#"
     },
     {
       "name": "Tabs Academy",
       "catch_line": "An app for coaching center in hydrabad",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/tabs-academy/tabs-academy.jpg",
       "type":"ionic",
-      "v_link": "#"
+      "v_link": "https://play.google.com/store/apps/details?id=com.pixeltech.tabsacademy"
     },
     {
       "name": "Shave Me",
       "catch_line": "Appointment booking System for salons",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/shave-me/shave-me.jpg",
       "type":"iphone",
-      "v_link": "#"
+      "v_link": "https://itunes.apple.com/us/app/shave-me-book-go/id1128291252"
     },
     {
       "name": "The Dubai Flowers",
       "catch_line": "Flowers booking and delivery system",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/dubai-flowers/dubai-flowers.jpg",
       "type":"wordpress",
-      "v_link": "#"
+      "v_link": "http://thedubaiflowers.com/"
     },
     {
       "name": "The Dubai Flowers (App)",
       "catch_line": "Flowers booking and delivery system",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/dubai-flowers/dubai.png",
       "type":"phonegap",
-      "v_link": "#"
+      "v_link": "https://apkpure.com/thedubaiflowers/com.thedubaiflowersapp"
     },
     {
       "name": "Shipping Advisory",
       "catch_line": "listing system for products at harbour",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/shipping-advisory/shipping-advisory.png",
       "type":"phonegap",
-      "v_link": "#"
+      "v_link": "https://apkpure.com/shipping-advisory/com.shippingAdvisoryApp"
     },
     {
       "name": "Khan ji",
       "catch_line": "Restaurant product showcase website",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/khanji/khan-ji.jpg",
       "type":"wordpress",
-      "v_link": "#"
+      "v_link": "http://khanji.pk/"
     },
     {
       "name": "Khan ji (App)",
       "catch_line": "Restaurant product showcase App",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/khanji/khanji.png",
       "type":"ionic",
-      "v_link": "#"
+      "v_link": "https://apkpure.com/khanji-restaurant/com.khanjiresturant"
     },
     {
-      "name": "Reliance Paints",
+      "name": "Reliable Paints",
       "catch_line": "Product showcase website",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/reliable/reliable.jpg",
       "type":"wordpress",
-      "v_link": "#"
-    },
-    {
-      "name": "Poshak fabrics",
-      "catch_line": "Product showcase website",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"wordpress",
-      "v_link": "#"
+      "v_link": "http://reliablepaints.pk/"
     },
     {
       "name": "Bed n Rest",
       "catch_line": "Product showcase website",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/bednrest/bednrest.jpg",
       "type":"wordpress",
       "v_link": "#"
     },
     {
-      "name": "Suzuki Showroom (App)",
+      "name": "Suzuki Danish Motors (App)",
       "catch_line": "Product showcase website",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/suzuki/suzuki.png",
       "type":"ionic",
-      "v_link": "#"
-    },
-    {
-      "name": "Chronology",
-      "catch_line": "Meeting Calls Manager App ",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"react-native",
-      "v_link": "#"
+      "v_link": "https://apkpure.com/suzuki-danish-motors/com.BigStep.SuzukiDanish"
     },
     {
       "name": "Bitrix Ledger Plugin",
       "catch_line": "Inventory management plugin",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/bitrix/bitrix.png",
       "type":"bitrix",
-      "v_link": "#"
+      "v_link": "https://bitbucket.org/shoaibuddin-pixtechcreation/bitrix-i/admin/links"
     },
     {
       "name": "Telemart",
       "catch_line": "Product Showcase App",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/telemart/telemart.jpg",
       "type":"iphone",
-      "v_link": "#"
+      "v_link": "https://itunes.apple.com/pk/app/telemart-online-shopping/id1111941181"
     },
     {
       "name": "Polaroid POP",
       "catch_line": "Polaroid Camera SUpporting App",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/polaroid/polaroid.jpg",
       "type":"iphone",
-      "v_link": "#"
+      "v_link": "https://itunes.apple.com/us/app/polaroid-pop/id1272136867"
     },
     {
-      "name": "Bravo",
+      "name": "Shoutout",
       "catch_line": "Shoutout App",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/shoutout/shoutout.jpg",
       "type":"iphone",
-      "v_link": "#"
+      "v_link": "https://shoaib-uddin@bitbucket.org/shoaib-uddin/shoutout-i.git"
+    },
+    {
+      "name": "New Western",
+      "catch_line": "Listing properties site",
+      "cover_image":"img/new-western/new-western.jpg",
+      "type":"ruby-on-rails",
+      "v_link": "https://www.newwestern.com/"
     },
     {
       "name": "New Western Comps",
       "catch_line": "Listing properties site",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/new-western/new-western.jpg",
       "type":"ruby-on-rails",
-      "v_link": "#"
+      "v_link": "https://www.newwesterncomps.com/"
     },
     {
       "name": "Woocommerce Fast Order",
       "catch_line": "Product Place order plugin",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/wp-plugins/wp-plugins.jpg",
       "type":"wordpress",
-      "v_link": "#"
+      "v_link": "https://github.com/shoaibuddin12fx/Wordpress-Ajax.git"
     },
     {
       "name": "Trend Setters",
       "catch_line": "Product Showcase Website",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/trend-setters/trend-setters.jpg",
       "type":"wordpress",
-      "v_link": "#"
+      "v_link": "http://www.trendsetters.pk/"
     },
     {
       "name": "Short Space AU",
       "catch_line": "Property listing site",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/short-space/short-space.jpg",
       "type":"ruby-on-rails",
-      "v_link": "#"
+      "v_link": "http://www.shortspace.com/"
     },
     {
       "name": "Learnotto",
       "catch_line": "Facts list base App",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/learnotto/learnotto.jpg",
       "type":"iphone",
       "v_link": "#"
     },
     {
       "name": "CSR Call App",
       "catch_line": "Customer Service Auto call App",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/csr-call/csr-call.jpeg",
       "type":"android",
-      "v_link": "#"
-    },
-    {
-      "name": "Friendem",
-      "catch_line": "Friends App",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"ionic",
-      "v_link": "#"
+      "v_link": "https://github.com/shoaibuddin12fx/GcmCallCSR1"
     },
     {
       "name": "Meople",
       "catch_line": "Chat Map Call Friends App",
-      "cover_image":"shoaib-sqr.jpg",
+      "cover_image":"img/meople/meople.jpg",
       "type":"ionic",
-      "v_link": "#"
-    },
-    {
-      "name": "COD Inventory System",
-      "catch_line": "University Project Inventory System",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"core-php",
-      "v_link": "#"
-    },
-    {
-      "name": "COD Inventory System",
-      "catch_line": "University Project Inventory System",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"core-php",
-      "v_link": "#"
-    },
-    {
-      "name": "Point Of Sale",
-      "catch_line": "Shop sale inventory system (modifications)",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"core-php",
-      "v_link": "#"
-    },
-    {
-      "name": "Point Of Sale",
-      "catch_line": "Shop sale inventory system (modifications)",
-      "cover_image":"shoaib-sqr.jpg",
-      "type":"core-php",
-      "v_link": "#"
+      "v_link": "https://github.com/shoaibuddin12fx/meople-app"
     }
 
 
