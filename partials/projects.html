@@ -20,7 +20,7 @@
             <!-- Portfolio Gallery Grid -->
             <div class="row">
                 <!-- ng-hide="( x.name == types ) && x.checked != false " -->
-                <div class="column" ng-repeat="y in a" ng-show="types.indexOf(y.type) !== -1 || types.length == 0">
+                <div class="col-sm-4" ng-repeat="y in a" ng-show="types.indexOf(y.type) !== -1 || types.length == 0">
                     <div class="content">
                         <img ng-src="{{y.cover_image}}" alt="Mountains" style="width:100%">
                         <!-- <h4>{{y.name}}</h4> -->
