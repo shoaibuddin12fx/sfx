@@ -16,17 +16,17 @@
     {
       "name": "gmail",
       "icon": "fa-envelope",
-      "link": "mailto:shoaibuddin12fx@gmail.com,contact@waapsdeveloper.com"
+      "link": "#"
     },
     {
       "name": "linkedin",
       "icon": "fa-linkedin",
-      "link": "https://www.linkedin.com/in/shoaib-uddin-3b0207126/"
+      "link": "#"
     },
     {
-      "name": "github",
+      "name": "facebook",
       "icon": "fa-github",
-      "link": "https://github.com/shoaibuddin12fx"
+      "link": "#"
     }
 
   ]

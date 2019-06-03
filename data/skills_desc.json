@@ -1,0 +1,374 @@
+{
+  "heading": "My Platform/Features Experience",
+  "skills": [
+    {
+      "heading":"Ionic 2/3/4 Platform",
+      "elements":[
+        {
+          "name": "Super/tabs/menu/basic templates",
+          "percentage": 90
+        },
+        {
+          "name": "PSD to Designs (HTML/CSS)",
+          "percentage": 90
+        },
+        {
+          "name": "REST API Integration",
+          "percentage": 90
+        },
+        {
+          "name": "Ionic local storage",
+          "percentage": 90
+        },
+        {
+          "name": "Camera/Photo gallery",
+          "percentage": 70
+        },
+        {
+          "name": "Google Map Integration",
+          "percentage": 40
+        },
+        {
+          "name": "Google Places API",
+          "percentage": 40
+        },
+        {
+          "name": "Google Geocoder API",
+          "percentage": 40
+        },
+        {
+          "name": "Google Geofence API",
+          "percentage": 90
+        },
+        {
+          "name": "Web Forms",
+          "percentage": 80
+        },
+        {
+          "name": "Angular 2/3/4",
+          "percentage": 50
+        },
+        {
+          "name": "Angular Form Validations",
+          "percentage": 50
+        },
+        {
+          "name": "Angular Material UI/UX Designs",
+          "percentage": 70
+        },
+        {
+          "name": "Ionic swipe Slide designs",
+          "percentage": 70
+        },
+        {
+          "name": "Ionic Native Plugins",
+          "percentage": 90
+        },
+        {
+          "name": "Cordova Plugins",
+          "percentage": 70
+        },
+        {
+          "name": "Youtube videos",
+          "percentage": 90
+        },
+        {
+          "name": "Firebase API Integration",
+          "percentage": 90
+        },
+        {
+          "name": "Firebase Push Notification",
+          "percentage": 90
+        },
+        {
+          "name": "Firebase NoSQL Database",
+          "percentage": 90
+        },
+        {
+          "name": "Firebase Storage",
+          "percentage": 90
+        },
+        {
+          "name": "Ionic with MySql database",
+          "percentage": 50
+        },
+        {
+          "name": "Wordpress API Integration into ionic",
+          "percentage": 50
+        }
+      ]
+    },
+    {
+      "heading":"Native iOS/iPhone Apps Platform",
+      "elements":[
+        {
+          "name": "Swift 2.1/3/4",
+          "percentage": 90
+        },
+        {
+          "name": "Objective-C",
+          "percentage": 90
+        },
+        {
+          "name": "Cocoapods",
+          "percentage": 90
+        },
+        {
+          "name": "Facebook Integration",
+          "percentage": 90
+        },
+        {
+          "name": "Google APIs Integration",
+          "percentage": 90
+        },
+        {
+          "name": "UI/UX Designs according to PSD",
+          "percentage": 90
+        },
+        {
+          "name": "FontAwesome Icon Integration",
+          "percentage": 90
+        },
+        {
+          "name": "Material Icon Integration",
+          "percentage": 90
+        },
+        {
+          "name": "iOS Native Photo Manager",
+          "percentage": 90
+        },
+        {
+          "name": "Camera Manager Support",
+          "percentage": 70
+        },
+        {
+          "name": "Image Processing and Filters",
+          "percentage": 40
+        },
+        {
+          "name": "Alamofire Network",
+          "percentage": 40
+        },
+        {
+          "name": "EVReflection Models",
+          "percentage": 40
+        },
+        {
+          "name": "API Helper classes",
+          "percentage": 40
+        },
+        {
+          "name": "Google Map API",
+          "percentage": 90
+        },
+        {
+          "name": "Apple Native MapKit",
+          "percentage": 90
+        },
+        {
+          "name": "Login/Signup/Other Forms",
+          "percentage": 80
+        },
+        {
+          "name": "Image upload to server (File/Base64)",
+          "percentage": 80
+        },
+        {
+          "name": "Google Youtube videos",
+          "percentage": 90
+        },
+        {
+          "name": "Screen Orientation Support",
+          "percentage": 90
+        },
+        {
+          "name": "Responsive Designs (Supports iPhoneX as well)",
+          "percentage": 90
+        },
+        {
+          "name": "Firebase API Integration",
+          "percentage": 90
+        },
+        {
+          "name": "Firebase Push Notification",
+          "percentage": 90
+        },
+        {
+          "name": "RESTFUL API Integration",
+          "percentage": 50
+        }
+      ]
+    },
+    {
+      "heading":"IDE Systems and Ingredients",
+      "elements":[
+        {
+          "name": "XCode",
+          "percentage": 80
+        },
+        {
+          "name": "Visual Studio Code",
+          "percentage": 60
+        },
+        {
+          "name": "Android Studio",
+          "percentage": 50
+        },
+        {
+          "name": "RubyMine",
+          "percentage": 40
+        },
+        {
+          "name": "phpStorm",
+          "percentage": 80
+        },
+        {
+          "name": "Netbeans",
+          "percentage": 50
+        },
+        {
+          "name": "Dreamweaver",
+          "percentage": 70
+        },
+        {
+          "name": "Firefox Developer Edition",
+          "percentage": 90
+        },
+        {
+          "name": "Postman",
+          "percentage": 70
+        },
+        {
+          "name": "SourceTree",
+          "percentage": 90
+        },
+        {
+          "name": "Github Desktop",
+          "percentage": 90
+        },
+        {
+          "name": "MySql Workbench",
+          "percentage": 50
+        },
+        {
+          "name": "MongoDB",
+          "percentage": 30
+        }
+      ]
+    },
+    {
+      "heading":"CMS Systems and Ingredients",
+      "elements":[
+        {
+          "name": "Ionic 1,2,3",
+          "percentage": 80
+        },
+        {
+          "name": "Wordpress",
+          "percentage": 70
+        },
+        {
+          "name": "Woocommerce",
+          "percentage": 70
+        },
+        {
+          "name": "Magento",
+          "percentage": 40
+        },
+        {
+          "name": "Ruby on Rails",
+          "percentage": 80
+        },
+        {
+          "name": "Phonegap",
+          "percentage": 30
+        },
+        {
+          "name": "OpenCart",
+          "percentage": 20
+        },
+        {
+          "name": "laravel",
+          "percentage": 50
+        },
+        {
+          "name": "Code Ignitor (CI)",
+          "percentage": 40
+        },
+        {
+          "name": "Firebase",
+          "percentage": 70
+        },
+        {
+          "name": "Facebook Dev console",
+          "percentage": 60
+        },
+        {
+          "name": "Google Dev console",
+          "percentage": 60
+        },
+        {
+          "name": "Apple Dev console",
+          "percentage": 60
+        }
+      ]
+    },
+    {
+      "heading":"Relevent Languages",
+      "elements":[
+        {
+          "name": "HTML",
+          "percentage": 90
+        },
+        {
+          "name": "CSS",
+          "percentage": 80
+        },
+        {
+          "name": "JavaScript",
+          "percentage": 70
+        },
+        {
+          "name": "php",
+          "percentage": 80
+        },
+        {
+          "name": "AJAX",
+          "percentage": 70
+        },
+        {
+          "name": "jQuery",
+          "percentage": 60
+        },
+        {
+          "name": "AngularJS 1",
+          "percentage": 70
+        },
+        {
+          "name": "AngularJS 2",
+          "percentage": 60
+        },
+        {
+          "name": "JAVA",
+          "percentage": 50
+        },
+        {
+          "name": "Swift",
+          "percentage": 70
+        },
+        {
+          "name": "Objective C",
+          "percentage": 50
+        },
+        {
+          "name": "Ruby",
+          "percentage": 30
+        },
+        {
+          "name": "C++",
+          "percentage": 50
+        }
+      ]
+    }  
+  ]
+}

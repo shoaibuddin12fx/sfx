@@ -31,6 +31,13 @@ app.factory('ajaxing', function($http, $timeout) {
             });
             return q.promise;
         },
+        getSkillsDesc:function($q){
+            var q = $q.defer();
+            $.getJSON("data/skills_desc.json", function( data ) {
+                q.resolve(data);
+            });
+            return q.promise;
+        },
         getProjects:function($q){
             var q = $q.defer();
             $.getJSON("data/projects.json", function( data ) {
